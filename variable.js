@@ -45,6 +45,7 @@ let age = 21;
 
 // let number = 15;
 // number = number * 2; ba
+
 // number = 30;
 
 
@@ -52,10 +53,11 @@ let age = 21;
 // ```
 // নিচের কোনটা সঠিক এবং কেন?
 
-// A) const age = 25; age = 30;
+// A) const age = 25; age = 35;
 // B) let age = 25; age = 30;
-// C) var age = 25; var age = 30;
+// C) var age = 25; var age = 35;
  
 
 // answer: B 
 // let diye variable banaile value change kora jai boss are const diye variable change kora jai na boss sekhere option b answer hobe B 
+
